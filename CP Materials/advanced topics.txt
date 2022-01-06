@@ -1,0 +1,66 @@
+Searching Algorithms
+Binary Search and Ternary Search
+
+02
+Data Structures
+Disjoint Set Union, STL, Complexity
+
+03
+Data Structures
+Basic Segment Tree, Lazy Propagation
+
+04
+Data Structures
+Advanced Segment Tree problems
+
+05
+Graph Theory
+Dijkstra, Bellman Ford, Floyd Warshall, MST
+
+06
+Graph Theory
+Articulation Point / Bridges, Biconnected Components, Strongly Connected Components
+
+07
+Network Flows
+Maximum Flow
+
+08
+Network Flows
+Bipartite Matching
+
+09
+Dynamic Programming
+DP with Bitmask
+
+10
+Dynamic Programming
+Common DP Techniques, Iterative DP
+
+11
+Dynamic Programming
+Discussion on advanced DP problems
+
+12
+Data Structures
+Sparse Table, Lowest Common Ancestor
+
+13
+Data Structures
+Hashing
+
+14
+Data Structures
+Trie
+
+15
+Strings
+KMP
+
+16
+Mathematics
+Advanced Number Theory
+
+17
+Mathematics
+Matrix exponentiation, Gaussian elimination

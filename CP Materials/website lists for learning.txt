@@ -1,0 +1,42 @@
+#Number Theory (Part 1, Part 2): Hackerearth.com
+	Modular Arithmetic Basics
+	Modular Exponentiation (computing $x^n % m$ in $\log n$
+	GCD in $\log n$
+	Modular Multiplicative Inverse,
+	Extended Euclidean Algorithm
+	Prime Factorisation - $\sqrt n$ and Sieve of Eratosthenes
+	
+#Greedy: Hackerearth.com
+	Developing intuition for greedy algorithms/proving or knowing their correctness
+	for a question comes with practice
+	
+#Binary Search: Hackerearth.com
+	Some of my favorite questions are on Binary Search! It’s a nice topic, and 
+	questions based on it can be pretty good if the monotonicity of the function 
+	isn’t obvious.
+	
+#Graph Theory: Hackerearth.com
+	Graph Representation
+	BFS, DFS
+	Shortest Path Algorithms (Dijkstra, Floyd-Warshall, Bellman-Ford)
+	Minimum Spanning Tree (Prim, Kruskal)
+	Topological Sort
+	Strongly Connected Components
+	Articulation Points and Bridges
+	
+#Data Structures: cp-algorithms.com
+	Disjoint Set Union (DSU)
+	Fenwick Tree (BIT)
+	Sparse Table
+	Segment Tree
+	
+#Bit Manipulation: Hackerearth.com
+	Bitwise Operators and their manipulation
+	Bitmasks (and their use in Dynamic Programming)
+	
+#Strings: cp-algorithms.com
+	KMP Algorithm
+	Z Algorithm
+	
+	
+###implementation of algorithms: https://github.com/Ashishgup1/Competitive-Coding/
