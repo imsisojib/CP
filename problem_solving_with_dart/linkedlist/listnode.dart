@@ -5,11 +5,11 @@ class ListNode {
 
   void printValues(){
 
-    ListNode? next = this;
+    ListNode? node = this;
     
-    while(next != null){
-      print(next.val);
-      next = next.next;
+    while(node != null){
+      print(node.val);
+      node = node.next;
     }
   }
 
